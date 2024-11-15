@@ -1,10 +1,10 @@
-package cifrador;
+package libCifrador;
 
 public class CifradorCesar {
 
     // Cargar la biblioteca nativa
     static {
-        System.loadLibrary("cifrador"); // Nombre de la biblioteca sin la extensión (.so)
+        System.loadLibrary("Cifrador"); // Nombre de la biblioteca sin la extensión (.so)
     }
 
     // Declaración de métodos nativos

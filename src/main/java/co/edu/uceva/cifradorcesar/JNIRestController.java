@@ -1,6 +1,6 @@
 package co.edu.uceva.cifradorcesar;
 
-import cifrador.CifradorCesar;
+import libCifrador.CifradorCesar;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
